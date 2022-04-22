@@ -1,4 +1,7 @@
-# Davit Datuashvili
+# Davit Datuashvili CV
+
+![datodatuashvili](https://user-images.githubusercontent.com/102386796/164785577-1fcacade-29b9-4827-a731-eeb787b75b75.jpg)
+
 ## Contact
 * [Gmail]datuashvilid@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/davit-93/)
